@@ -18,12 +18,13 @@ I showcase projects I have done using data analytics tools like SQL, R Programmi
 
 *A glimpse of some of the projects I've been working on.*
 
-**Analyzing the Global Coronavirus Cases-rate, Deaths-rate, and rate of vaccination.**
-![image](Dashboard 1 (1).png)
+**Analyzing the Global Coronavirus case rate, deaths rate, and rate of vaccination.**
+![image](covid19.png)
 
-Coronavirus was one of the pandamic that shook the world. Millions of lives were lost. 
-However, the advent and use of covid vaccines helped arrest this pandamic to the point it now.
-This project shows the rate infection increase globally, the deaths rate and also the intervention of vaccines.
+
+Coronavirus was one of the pandemics that shook the world. Millions of lives were lost. 
+However, the advent and use of COVID-19 vaccines helped arrest this pandemic to the point it is now.
+This project shows the rate of infection increase globally, the death rate, and also the intervention of vaccines.
 
 
 [Read More](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
