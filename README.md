@@ -12,3 +12,71 @@ I am passionate about leveraging industry best practices and innovative technolo
 I showcase projects I have done using data analytics tools like SQL, R Programming, Tableau, and Excel skills. 
 
 
+
+<!--Section 2: List 3-4 key projects-->
+## MY PORTFOLIO 
+
+*A glimpse of some of the projects I've been working on.*
+
+**Analyzing the Global Coronavirus Cases-rate, Deaths-rate, and rate of vaccination.**
+![image](Dashboard 1 (1).png)
+
+Coronavirus was one of the pandamic that shook the world. Millions of lives were lost. 
+However, the advent and use of covid vaccines helped arrest this pandamic to the point it now.
+This project shows the rate infection increase globally, the deaths rate and also the intervention of vaccines.
+
+
+[Read More](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
+
+**Analyzing how Annual Members, Casual riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
+
+![image](tab.PNG)
+
+Cyclistic Bikeshare Company wants to convert their casual riders to annual member in order to boost revenue.
+They intend not to spend so much on advert and promotion, so they want to focus on casual rider.
+This project helpls the to decide if this plan will profitable for them in the coming year.
+
+[Read More](https://github.com/okuujustin/How-Annualmembers-and-Casualriders-use-Cyclistics-Differently)
+
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:chidozieokuu@gmail.com">chidozieokuu@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 8034155411, (234) 8115406665 </td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Abuja, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/justinokuu/">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@techwalldatahub">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+
+   
+
+
+
+
+
+
+
