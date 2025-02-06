@@ -29,15 +29,15 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 [Read More](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
-**Analyzing how Annual Members, Casual riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
+**Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
 
 ![image](tab.PNG)
 
-Cyclistic Bikeshare Company wants to convert their casual riders to annual member in order to boost revenue.
-They intend not to spend so much on advert and promotion, so they want to focus on casual rider.
-This project helpls the to decide if this plan will profitable for them in the coming year.
+Cyclistic Bikeshare Company wants to convert its casual riders to annual members to boost revenue.
+They intend not to spend so much on advertising and promotion, so they want to focus on casual riders.
+This project helps them to decide if this plan will pbe rofitable for them in the coming year.
 
-[Read More](https://github.com/okuujustin/How-Annualmembers-and-Casualriders-use-Cyclistics-Differently)
+[Read More](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
 
 
 
