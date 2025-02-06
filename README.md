@@ -19,7 +19,7 @@ I showcase projects I have done using data analytics tools like SQL, R Programmi
 *A glimpse of some of the projects I've been working on.*
 
 **Analyzing the Global Coronavirus case rate, deaths rate, and rate of vaccination.**
-![image](covid19.png)
+![image](covid-19-dashboard.png)
 
 
 Coronavirus was one of the pandemics that shook the world. Millions of lives were lost. 
