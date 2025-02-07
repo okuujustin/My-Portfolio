@@ -31,11 +31,11 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 **Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
 
-![image](tab.PNG)
+![image](bikeshare_excel.PNG)
 
 Cyclistic Bikeshare Company wants to convert its casual riders to annual members to boost revenue.
 They intend not to spend so much on advertising and promotion, so they want to focus on casual riders.
-This project helps them to decide if this plan will pbe rofitable for them in the coming year.
+This project helps them to decide if this plan will be profitable for them in the coming year.
 
 [Read More](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
 
