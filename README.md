@@ -14,11 +14,15 @@ I showcase projects I have done using data analytics tools like SQL, R Programmi
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
-*A glimpse of some of the projects I've been working on.*
+### VISIT MY GITHUB ACCOUNT TO VIEW ALL MY PROJECTS  
 
-**Analyzing the Global Coronavirus case rate, deaths rate, and rate of vaccination.**
+*[MY GITHUB ACCOUNT](https://github.com/okuujustin)*
+
+*Here is a glimpse of some of the projects I have been working on.*
+
+**1.  Analyzing the Global Coronavirus case rate, deaths rate, and vaccination rate.**
 ![image](covid-19-dashboard.png)
 
 
@@ -29,12 +33,12 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 [Read More](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
-**Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
+**2.  Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
 
 ![image](bikeshare_excel.PNG)
 
 Cyclistic Bikeshare Company wants to convert its casual riders to annual members to boost revenue.
-They intend not to spend so much on advertising and promotion, so they want to focus on casual riders.
+They intend to spend less on advertising and promotion and focus more on casual riders.
 This project helps them to decide if this plan will be profitable for them in the coming year.
 
 [Read More](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
