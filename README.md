@@ -31,7 +31,7 @@ However, the advent and use of COVID-19 vaccines helped arrest this pandemic to 
 This project shows the rate of infection increase globally, the death rate, and also the intervention of vaccines.
 
 
-[Read More](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
+[Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
 **2.  Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
 
@@ -41,7 +41,7 @@ Cyclistic Bikeshare Company wants to convert its casual riders to annual members
 They intend to spend less on advertising and promotion and focus more on casual riders.
 This project helps them to decide if this plan will be profitable for them in the coming year.
 
-[Read More](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
+[Read More from my GitHub Account](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
 
 
 
