@@ -39,7 +39,7 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 Cyclistic Bikeshare Company wants to convert its casual riders to annual members to boost revenue.
 They intend to spend less on advertising and promotion and focus more on casual riders.
-This project helps them to decide if this plan will be profitable for them in the coming year.
+This project will help them decide if this plan will be profitable for them in the coming year.
 
 [Read More from my GitHub Account](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
 
@@ -64,7 +64,7 @@ This project helps them to decide if this plan will be profitable for them in th
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="okuujustin.cv.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
