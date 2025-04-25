@@ -18,7 +18,7 @@ I showcase projects I have done using data analytics tools like SQL, R Programmi
 
 ### VISIT MY GITHUB ACCOUNT TO VIEW ALL MY PROJECTS  
 
-*[MY GITHUB ACCOUNT](https://github.com/okuujustin)*
+*[VISIT MY GITHUB ACCOUNT](https://github.com/okuujustin)*
 
 *Here is a glimpse of some of the projects I have been working on.*
 
