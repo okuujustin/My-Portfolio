@@ -1,16 +1,21 @@
 # MY PORTFOLIO
 <!--Section 1: Introduce yourself -->
 ## ABOUT ME
+Hello there
+  I am Okuu Justin, a data analyst.
+  I am well-equipped to work with companies in various areas, such as data sorting and filtering, using pivot tables to summarise data, employing Vlookup/Xlookup and Match/Index to 
+ gather  data from different worksheets, conduct data wrangling and manipulations using SQL Server, and leverage innovative ideas and technologies to maximize efficiency and value.
+  I love to build dashboards, reports, and tell stories with data visualizations using Excel, Tableau, and R Markdown.
+  I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and   
+  drive continuous improvement.
+  
+  👀 I’m interested in working on various projects to help companies and businesses make informed, data-driven decisions.
+ 🌱 I’m currently improving my skills in Python.
 
-Hello! I am Okuu Justin, an entry-level data analyst.
-I am well-equipped to work with companies in various areas, such as data sorting and filtering, Using pivot tables to summarise data, Employing Vloopup/Xlookup and Match/Index to gather data from different worksheets, conducting data wrangling and manipulations using SQL(MySQL, SQL Server), and leveraging innovative ideas and technologies to maximize efficiency and value.
+  If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
+  Let's connect to work together. 
 
-I love to build dashboards, and reports and tell stories with data visualizations using Excel, tableau, and R Markdown.
-
-I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and drive continuous improvement.
-
-I showcase projects I have done using data analytics tools like SQL, R Programming, Tableau, and Excel skills. 
-
+I showcase projects I have done using data analytics tools like SQL, Tableau, and Excel. 
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -21,6 +26,7 @@ I showcase projects I have done using data analytics tools like SQL, R Programmi
 *[VISIT MY GITHUB ACCOUNT](https://github.com/okuujustin)*
 
 *Here is a glimpse of some of the projects I have been working on.*
+
 
 **1.  Analyzing the Global Coronavirus case rate, deaths rate, and vaccination rate.**
 ![image](covid-19-dashboard.png)
