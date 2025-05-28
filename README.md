@@ -44,6 +44,19 @@ Cleaning a dataset is one of the things I enjoyed doing as an analyst because it
 
 
 
+**3.  How I save myself from unnecessary spending.**
+
+![image](myfinance.png)
+
+I decided to tell a story about my finances last year as a data analyst.
+One of my decisions last year was to keep a record of all my cash flow. I tried many times and failed. I decided to learn and grow through the process. Today, I am happy that I have become conscious about putting down all my financial activities, no matter how small. With this, I have saved myself from illicit and unnecessary spending.
+
+
+[Read More from my GitHub Account](https://github.com/okuujustin/myfinancial_statement_analysis_Sept-Dec2024/edit/main/README.md)
+
+
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
