@@ -90,7 +90,7 @@ The data reflect the number of vehicles, containers, passengers, or pedestrians 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="okuujustin.cv.pdf">Download my CV</a></td>
+      <td><a href="OKUU JUSTIN CHIDOZIE DATA ANALYST RESUME.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
