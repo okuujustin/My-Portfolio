@@ -60,6 +60,17 @@ The primary goal of this analysis is to evaluate the sales performance, profitab
 [Read More from my GitHub Account](https://github.com/okuujustin/Superstore-Sales-Performance-Dashboard/edit/main/README.md)
 
 
+**4.  To evaluate inbound crossings at the U.S.-Canada and the U.S.-Mexico Border at the Port Level and  the economic contributions**
+![image](Analysis-on-Tableau.png)
+
+There has been a massive US border crossings for many years.
+The Bureau of Transportation Statistics (BTS) Border Crossing Data provides summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. 
+Data are available for trucks, trains, containers, buses, personal vehicles, passengers, and pedestrians. 
+Border crossing data are collected at ports of entry by U.S. Customs and Border Protection (CBP). 
+The data reflect the number of vehicles, containers, passengers, or pedestrians entering the United States.  
+[Read More from my GitHub Account](https://public.tableau.com/views/USBORDERCROSSINGDASHBOARD/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
