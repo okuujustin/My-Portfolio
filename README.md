@@ -3,16 +3,14 @@
 
 ## ABOUT ME
 
-I am **Okuu Justin Chidozie**, a data analyst passionate about transforming complex data into actionable insights. With a strong foundation in tools like **Microsoft Excel, SQL Server, Tableau, and R**, I specialize in data wrangling, visualization, and storytelling to drive informed decision-making.
+I am Okuu Justin Chidozie, a data analyst passionate about transforming complex data into actionable insights. With a strong foundation in tools like Microsoft Excel, SQL Server, Tableau, and R, I specialize in data wrangling, visualization, and storytelling to drive informed decision-making.
 
-My proficiency includes advanced Excel functions such as **PivotTables, VLOOKUP/XLOOKUP, and INDEX/MATCH** for efficient data sorting and filtering. I use **SQL** for powerful data manipulation, including **Common Table Expressions (CTEs)** and **window functions** to handle complex queries and perform advanced analytics. I have experience creating dynamic dashboards and reports that clearly communicate key findings to both technical and non-technical stakeholders.
+My proficiency includes advanced Excel functions such as PivotTables, VLOOKUP/XLOOKUP, and INDEX/MATCH for efficient data sorting and filtering. I use SQL for powerful data manipulation, including Common Table Expressions (CTEs) and window functions to handle complex queries and perform advanced analytics. I have experience creating dynamic dashboards and reports that clearly communicate key findings to both technical and non-technical stakeholders.
 
-I am committed to **continuous learning** and am currently improving my skills in **Python** to further expand my data science toolkit. My goal is to collaborate with global teams and clients, contributing to **impactful, data-driven projects** that maximize business efficiency and value.
+I am committed to continuous learning and am currently improving my skills in Python to further expand my data science toolkit. My goal is to collaborate with global teams and clients, contributing to impactful, data-driven projects that maximize business efficiency and value.
 
-If you're seeking a **detail-oriented, analytical, and dependable** data analyst with a passion for precision and innovation, let’s connect and explore how I can contribute to your team’s success.
- 
-
-I showcase projects I have done using data analytics tools like SQL, Tableau, and Excel. 
+If you're seeking a detail-oriented, analytical, and dependable data analyst with a passion for precision and innovation, let’s connect and explore how I can contribute to your team’s success.
+  
 
 
 <!--Section 2: List 3-4 key projects-->
