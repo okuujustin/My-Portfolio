@@ -57,6 +57,16 @@ This project shows the rate of infection increase globally, the death rate, and 
 [Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
 
+
+**4.  Analyzing how the sales rate and revenue generation of the superstores across states in the United States are, and how they can be improved**
+![image](Dashboard.png)
+
+The primary goal of this analysis is to evaluate the sales performance, profitability, and customer behavior of Superstore across different US states. The insights derived will support strategic decisions aimed at improving revenue, optimizing inventory, and increasing profitability.
+
+
+[Read More from my GitHub Account](https://github.com/okuujustin/Superstore-Sales-Performance-Dashboard/edit/main/README.md)
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
