@@ -34,11 +34,11 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 [Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
-**2.  How I cleaned a healthcare dirty dataset to analysis-ready dataset using PowerQuery .**
+**2.  How I cleaned a healthcare dirty dataset to an analysis-ready dataset using PowerQuery .**
 
 ![image](powerquery_project.png)
 
-Cleaning a dataset is one of the things I enjoyed doing as an analyst because it gives confirmation that analysis can be performed without glitches. So, the essence of this project is to clean this dataset and get it ready for analysis, and create a detailed report thereafter.
+Cleaning a dataset is one of the things I enjoyed doing as an analyst because it confirms that analysis can be performed without glitches. So, the essence of this project is to clean this dataset and get it ready for analysis, and create a detailed report thereafter.
 
 [Read More from my GitHub Account](https://github.com/okuujustin/Data_Cleaning_Using_Excel_and_PowerQuery)
 
