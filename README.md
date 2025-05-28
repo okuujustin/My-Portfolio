@@ -23,18 +23,8 @@ If you're seeking a detail-oriented, analytical, and dependable data analyst wit
 *Here is a glimpse of some of the projects I have been working on.*
 
 
-**1.  Analyzing the Global Coronavirus case rate, deaths rate, and vaccination rate.**
-![image](covid-19-dashboard.png)
 
-
-Coronavirus was one of the pandemics that shook the world. Millions of lives were lost. 
-However, the advent and use of COVID-19 vaccines helped arrest this pandemic to the point it is now.
-This project shows the rate of infection increase globally, the death rate, and also the intervention of vaccines.
-
-
-[Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
-
-**2.  How I cleaned a healthcare dirty dataset to an analysis-ready dataset using PowerQuery .**
+**1.  How I cleaned a healthcare dirty dataset to an analysis-ready dataset using PowerQuery .**
 
 ![image](powerquery_project.png)
 
@@ -44,7 +34,7 @@ Cleaning a dataset is one of the things I enjoyed doing as an analyst because it
 
 
 
-**3.  How I save myself from unnecessary spending.**
+**2.  How I save myself from unnecessary spending.**
 
 ![image](myfinance.png)
 
@@ -55,6 +45,16 @@ One of my decisions last year was to keep a record of all my cash flow. I tried 
 [Read More from my GitHub Account](https://github.com/okuujustin/myfinancial_statement_analysis_Sept-Dec2024/edit/main/README.md)
 
 
+**3.  Analyzing the Global Coronavirus case rate, deaths rate, and vaccination rate.**
+![image](covid-19-dashboard.png)
+
+
+Coronavirus was one of the pandemics that shook the world. Millions of lives were lost. 
+However, the advent and use of COVID-19 vaccines helped arrest this pandemic to the point it is now.
+This project shows the rate of infection increase globally, the death rate, and also the intervention of vaccines.
+
+
+[Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
 
 ## CONTACT DETAILS
