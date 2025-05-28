@@ -29,7 +29,6 @@ If you're seeking a detail-oriented, analytical, and dependable data analyst wit
 ![image](powerquery_project.png)
 
 Cleaning a dataset is one of the things I enjoyed doing as an analyst because it confirms that analysis can be performed without glitches. So, the essence of this project is to clean this dataset and get it ready for analysis, and create a detailed report thereafter.
-
 [Read More from my GitHub Account](https://github.com/okuujustin/Data_Cleaning_Using_Excel_and_PowerQuery)
 
 
@@ -40,8 +39,6 @@ Cleaning a dataset is one of the things I enjoyed doing as an analyst because it
 
 I decided to tell a story about my finances last year as a data analyst.
 One of my decisions last year was to keep a record of all my cash flow. I tried many times and failed. I decided to learn and grow through the process. Today, I am happy that I have become conscious about putting down all my financial activities, no matter how small. With this, I have saved myself from illicit and unnecessary spending.
-
-
 [Read More from my GitHub Account](https://github.com/okuujustin/myfinancial_statement_analysis_Sept-Dec2024/edit/main/README.md)
 
 
@@ -52,8 +49,6 @@ One of my decisions last year was to keep a record of all my cash flow. I tried 
 Coronavirus was one of the pandemics that shook the world. Millions of lives were lost. 
 However, the advent and use of COVID-19 vaccines helped arrest this pandemic to the point it is now.
 This project shows the rate of infection increase globally, the death rate, and also the intervention of vaccines.
-
-
 [Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
 
@@ -62,8 +57,6 @@ This project shows the rate of infection increase globally, the death rate, and 
 ![image](Dashboard.png)
 
 The primary goal of this analysis is to evaluate the sales performance, profitability, and customer behavior of Superstore across different US states. The insights derived will support strategic decisions aimed at improving revenue, optimizing inventory, and increasing profitability.
-
-
 [Read More from my GitHub Account](https://github.com/okuujustin/Superstore-Sales-Performance-Dashboard/edit/main/README.md)
 
 
