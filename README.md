@@ -60,7 +60,7 @@ The primary goal of this analysis is to evaluate the sales performance, profitab
 [Read More from my GitHub Account](https://github.com/okuujustin/Superstore-Sales-Performance-Dashboard/edit/main/README.md)
 
 
-**4.  To evaluate inbound crossings at the U.S.-Canada and the U.S.-Mexico Border at the Port Level and  the economic contributions**
+**5. Evaluating inbound crossings at the U.S.-Canada and the U.S.-Mexico Border at the Port Level and  the economic contributions**
 ![image](Analysis-on-Tableau.png)
 
 There has been a massive US border crossings for many years.
