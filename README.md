@@ -1,19 +1,16 @@
 # MY PORTFOLIO
 <!--Section 1: Introduce yourself -->
-## ABOUT ME
-Hello there
-  I am Okuu Justin, a data analyst.
-  I am well-equipped to work with companies in various areas, such as data sorting and filtering, using pivot tables to summarise data, employing Vlookup/Xlookup and Match/Index to 
- gather  data from different worksheets, conduct data wrangling and manipulations using SQL Server, and leverage innovative ideas and technologies to maximize efficiency and value.
-  I love to build dashboards, reports, and tell stories with data visualizations using Excel, Tableau, and R Markdown.
-  I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and   
-  drive continuous improvement.
-  
-  👀 I’m interested in working on various projects to help companies and businesses make informed, data-driven decisions.
- 🌱 I’m currently improving my skills in Python.
 
-  If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
-  Let's connect to work together. 
+## ABOUT ME
+
+I am **Okuu Justin Chidozie**, a data analyst passionate about transforming complex data into actionable insights. With a strong foundation in tools like **Microsoft Excel, SQL Server, Tableau, and R**, I specialize in data wrangling, visualization, and storytelling to drive informed decision-making.
+
+My proficiency includes advanced Excel functions such as **PivotTables, VLOOKUP/XLOOKUP, and INDEX/MATCH** for efficient data sorting and filtering. I use **SQL** for powerful data manipulation, including **Common Table Expressions (CTEs)** and **window functions** to handle complex queries and perform advanced analytics. I have experience creating dynamic dashboards and reports that clearly communicate key findings to both technical and non-technical stakeholders.
+
+I am committed to **continuous learning** and am currently improving my skills in **Python** to further expand my data science toolkit. My goal is to collaborate with global teams and clients, contributing to **impactful, data-driven projects** that maximize business efficiency and value.
+
+If you're seeking a **detail-oriented, analytical, and dependable** data analyst with a passion for precision and innovation, let’s connect and explore how I can contribute to your team’s success.
+ 
 
 I showcase projects I have done using data analytics tools like SQL, Tableau, and Excel. 
 
