@@ -34,15 +34,13 @@ This project shows the rate of infection increase globally, the death rate, and 
 
 [Read More from my GitHub Account](https://github.com/okuujustin/SQL-EDA-on-Coronavirus-Deathrate-and-Vaccinationimpact)
 
-**2.  Analyzing how Annual Members, Casual Riders Cyclistic Bikeshare Company use Bikes Differently in 2023.**
+**2.  How I cleaned a healthcare dirty dataset to analysis-ready dataset using PowerQuery .**
 
-![image](bikeshare_excel.PNG)
+![image](powerquery_project.png)
 
-Cyclistic Bikeshare Company wants to convert its casual riders to annual members to boost revenue.
-They intend to spend less on advertising and promotion and focus more on casual riders.
-This project will help them decide if this plan will be profitable for them in the coming year.
+Cleaning a dataset is one of the things I enjoyed doing as an analyst because it gives confirmation that analysis can be performed without glitches. So, the essence of this project is to clean this dataset and get it ready for analysis, and create a detailed report thereafter.
 
-[Read More from my GitHub Account](https://github.com/okuujustin/How-Annual_members-and-Casual_riders-use-Cyclistics-Differently)
+[Read More from my GitHub Account](https://github.com/okuujustin/Data_Cleaning_Using_Excel_and_PowerQuery)
 
 
 
